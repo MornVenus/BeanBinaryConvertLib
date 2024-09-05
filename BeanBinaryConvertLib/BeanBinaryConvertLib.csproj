@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>BeanBinaryConvertLib</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Venus</Authors>
+    <Description>A library to convert between bean and binary.</Description>
+    <PackageTags>binary;bean;convert</PackageTags>
+    <RepositoryUrl>https://github.com/baby-jie/test</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <AssemblyName>BeanBinaryConvertLib</AssemblyName>
+  </PropertyGroup>
+
+</Project>
