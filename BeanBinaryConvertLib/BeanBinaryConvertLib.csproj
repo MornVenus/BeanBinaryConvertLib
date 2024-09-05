@@ -13,7 +13,7 @@
     <Authors>Venus</Authors>
     <Description>A library to convert between bean and binary.</Description>
     <PackageTags>binary;bean;convert</PackageTags>
-    <RepositoryUrl>https://github.com/baby-jie/test</RepositoryUrl>
+    <RepositoryUrl>https://github.com/MornVenus/BeanBinaryConvertLib</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <AssemblyName>BeanBinaryConvertLib</AssemblyName>
   </PropertyGroup>
